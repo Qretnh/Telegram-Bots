@@ -1,8 +1,0 @@
-RUB
-1 month=1000
-6 month=5000
-12 month=10000
-USD
-1 month=1
-6 month=50
-12 month=100
